@@ -6,3 +6,6 @@ This is an End-to-End Analytics project. In this project, we will analyze the sa
 
 __2. Business Requirement__
 
+Understanding the business requirements is the most essential step in any data analytics project. In the initial phase of the project, it is important that an Analyst dicusses the business requirements and the project goals with the stakeholders. Considering the requirements, then the Analyst can come up with questions and problems that the project is attempting to answer. 
+Here the questions we are attempting to answer in this project: 
+
