@@ -13,4 +13,18 @@ The purpose of the Walmart Sales dashboard is to visualize the seasonal sales tr
 - Indentify months with highest and lowest sales
 - Line chart
 
-### _Sales Trends_ ###
+### _Seasonal Sales_ ###
+- Visualize the seasonal contribution in sales
+- Pie chart
+
+### _Top stores_ ###
+- Filter and sort the top performing store in sales for the year
+- Column chart
+
+### _Holiday Effect_ ###
+- Compare the average sales on weeks with holiday vs non-holidasys
+- Bar chart
+
+### _Correlation_ ###
+- See how factors such as temperature, fuel_price, CPI and Unemployments affect Sales
+- Correlation chart
