@@ -5,7 +5,7 @@ The purpose of the Walmart Sales dashboard is to visualize the seasonal sales tr
 
 ## Key Requirements
 ### _KPI Overview_ ###
-- Display a summary of total sales and average sales per store for the current year
+- Display a summary of total sales and increase in sales for the current year
 - Bans chart
 
 ### _Sales Trends_ ###
